@@ -1,0 +1,16 @@
+{
+"id": "001",
+"nombre": "Boya Teresitas Oeste",
+"coordenadas": {
+    "latitud": 28.509381, 
+    "longitud": -16.180889
+    },
+"metricas": {
+    "temperatura": 25.0,
+    "ph": 7.0,
+    "conductividad": 1.5,
+    "oxigeno_disuelto": 8.0,
+    "salinidad": 0.5,
+    "actividad_biologica": 0.8
+    }
+}
