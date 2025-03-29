@@ -10,7 +10,7 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
     const json = JSON.parse(data);
-    res.header("Access-Control-Allow-Origin", "*");
+    //res.header("Access-Control-Allow-Origin", "*");
     return res.status(200).json(json);
   } catch (error) {
     return res.status(500).json({ error: 'location data not found' });
