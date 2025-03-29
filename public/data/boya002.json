@@ -1,16 +1,16 @@
 {
 "id": "002",
-"nombre": "Boya Teresitas Este",
-"coordenadas": {
-    "latitud": 28.505581, 
-    "longitud": -16.188184
+"name": "Boya Teresitas Este",
+"coords": {
+    "lat": 28.505581, 
+    "long": -16.188184
     },
-"metricas": {
-    "temperatura": 24.0,
+"metrics": {
+    "temperature": 24.0,
     "ph": 7.1,
-    "conductividad": 1.5,
-    "oxigeno_disuelto": 7.9,
-    "salinidad": 0.5,
-    "actividad_biologica": 2.0
+    "conductivity": 1.5,
+    "oxigen": 7.9,
+    "salinity": 0.5,
+    "bio_activity": 2.0
     }
 }

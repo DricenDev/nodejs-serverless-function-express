@@ -12,6 +12,6 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     const json = JSON.parse(data);
     return res.status(200).json(json);
   } catch (error) {
-    return res.status(404).json({ error: `Boya con id ${id} no encontrada` });
+    return res.status(404).json({ error: `bouy with id ${id} not found` });
   }
 }
