@@ -13,7 +13,6 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     res.setHeader("Access-Control-Allow-Origin", "*");
     return res.status(200).json(json);
   } catch (error) {
-    return res.status(404).json({ error: `bouy with id ${id} not found`,
-                                  message: error.message });
+    return res.status(404).json({ error: `bouy with id ${id} not found`});
   }
 }

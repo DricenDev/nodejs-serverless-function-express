@@ -1,5 +1,4 @@
-{
-"boyas": [
+[
     {
     "id": "001",
     "name": "Boya Teresitas Oeste",
@@ -10,5 +9,4 @@
     "name": "Boya Teresitas Este",
     "coords": { "lat": 28.505581, "long": -16.188184 }
     }
-    ]
-}
+]
