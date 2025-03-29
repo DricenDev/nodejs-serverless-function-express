@@ -5,7 +5,7 @@ import path from 'path';
 export default function handler(req: VercelRequest, res: VercelResponse) {
   const { id = '001' } = req.query
   
-  const filePath = path.join(process.cwd(), 'public', 'data', `boya${id}.json`);
+  const filePath = path.join(process.cwd(), 'public', 'data', `buoy${id}.json`);
 
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
