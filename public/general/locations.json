@@ -1,0 +1,14 @@
+{
+"boyas": [
+    {
+    "id": "001",
+    "nombre": "Boya Teresitas Oeste",
+    "coordenadas": { "latitud": 28.509381, "longitud": -16.180889 }
+    },
+    {
+    "id": "002",
+    "nombre": "Boya Teresitas Este",
+    "coordenadas": { "latitud": 28.505581, "longitud": -16.188184 }
+    }
+    ]
+}
