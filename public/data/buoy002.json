@@ -8,9 +8,9 @@
 "metrics": {
     "temperature": 24.0,
     "ph": 7.1,
-    "conductivity": 1.5,
-    "oxigen": 7.9,
-    "salinity": 0.5,
+    "conductivity": 140.7,
+    "oxigen": 7.4,
+    "salinity": 33.2,
     "bio_activity": 2.0
     }
 }
