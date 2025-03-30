@@ -1,17 +1,22 @@
 [
     {
     "id": "001",
-    "name": "Boya Teresitas Oeste",
+    "name": "Teresitas Oeste",
     "coords": { "lat": 28.509381, "long": -16.180889 }
     },
     {
     "id": "002",
-    "name": "Boya Teresitas Este",
+    "name": "Teresitas Este",
     "coords": { "lat": 28.505581, "long": -16.188184 }
     },
     {
     "id": "003",
     "name": "Benijo",
     "coords": { "lat": 28.573916, "long": -16.193486 }
+    },
+    {
+    "id": "004",
+    "name": "Playa las americas",
+    "coords": { "lat": 28.050576, "long": -16.722879 }
     }
 ]
