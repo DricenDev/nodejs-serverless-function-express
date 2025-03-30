@@ -7,10 +7,10 @@
     },
 "metrics": {
     "temperature": 30.0,
-    "ph": 6.9,
-    "conductivity": 1.5,
-    "oxigen": 7.9,
-    "salinity": 0.5,
+    "ph": 7.0,
+    "conductivity": 300.0,
+    "oxigen": 7.7,
+    "salinity": 38,
     "bio_activity": 0.1
     }
 }
