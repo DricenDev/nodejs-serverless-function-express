@@ -1,0 +1,16 @@
+{
+"id": "003",
+"name": "Benijo",
+"coords": {
+    "lat": 28.573916,
+    "long": -16.193486
+    },
+"metrics": {
+    "temperature": 22.0,
+    "ph": 5.1,
+    "conductivity": 1.5,
+    "oxigen": 7.9,
+    "salinity": 0.5,
+    "bio_activity": 5.0
+    }
+}
